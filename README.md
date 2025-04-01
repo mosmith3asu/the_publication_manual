@@ -3,8 +3,7 @@ Highlights relevant principles of writing a good scientific publications
 
 # Selecting a Venue
 
-## Journals
-## Conferences
+## Journal or Conference?
 ## Arxiv edition
 ## Summary
 > **Key Ideas**
